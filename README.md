@@ -1,4 +1,4 @@
-### Writing Your First Program
+# Writing Your First Program
 
 Python is extremely simple to get started, but first we're going to get introduced to a couple applications.
 
