@@ -34,7 +34,7 @@ Type this command into your terminal.
     git clone https://github.com/amaclean2/intro-to-python.git
 ```
 
-Now once it's cloned, you should be able to type this and execute your first function.
+Now once it's cloned, you should be able to type this and execute your first program.
 
 ```
     cd intro-to-python
