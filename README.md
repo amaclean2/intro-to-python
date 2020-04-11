@@ -2,8 +2,7 @@
 
 Python is extremely simple to get started, but first we're going to get introduced to a couple applications.
 
-- First thing, go to https://github.com/amaclean2/intro-to-python.
-- There should be a button in the upper right corner that says Fork.
+- There should be a button in the upper right corner of this page that says Fork.
 - Click on it and it will copy all the code in the assignment into your GitHub.
 - Click on clone or download and copy the url. Make sure it says clone with HTTPS in the new window.
 
