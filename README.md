@@ -8,8 +8,8 @@ A side note, when you're talking in computer science, folders are called directo
 
 ```
     cd       "change directory" lets you navigate between directories on your computer
-    mkdir    "make directory" create a new directory where you are
-    ls       "list" lists all the contents of the directory you're currently in
+    mkdir    "make directory" creates a new directory in the current location
+    ls       "list" lists all the contents of the directory you are currently in
     python   runs a Python script
     git      executes a git command
     ~        "home" a shortcut for your home directory
