@@ -1,3 +1,3 @@
 # print Hello World to the console
-greeting = "Hello, Maya"
+greeting = "Hello, Poopyface"
 print greeting
