@@ -11,11 +11,17 @@ On your computer, there's an application called terminal. Terminal is a command 
 
 ```
     cd       "change directory" lets you navigate between directories on your computer
+    
     mkdir    "make directory" creates a new directory in the current location
+    
     ls       "list" lists all the contents of the directory you are currently in
+    
     python   runs a Python script
+    
     git      executes a git command
+    
     ~        "home" a shortcut for your home directory
+    
     open .   open a new Finder window in the current location (make sure to include the .)
 ```
 
