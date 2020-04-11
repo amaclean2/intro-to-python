@@ -2,9 +2,12 @@
 
 Python is extremely simple to get started, but first we're going to get introduced to a couple applications.
 
-On your computer, there's an application called terminal. Terminal is a command line editor for your computer. Everything you can do on your computer, you can do in terminal. You just have to learn the commands for what you want to do. We'll start with a couple simple ones first.
+- First thing, go to https://github.com/amaclean2/intro-to-python.
+- There should be a button in the upper right corner that says Fork.
+- Click on it and it will copy all the code in the assignment into your GitHub.
+- Click on clone or download and copy the url. 
 
-A side note, when you're talking in computer science, folders are called directories, so that's what we'll refer to them as.
+On your computer, there's an application called terminal. Terminal is a command line editor for your computer. Everything you can do on your computer, you can do in terminal. You just have to learn the commands for what you want to do. We'll start with a couple simple ones first.
 
 ```
     cd       "change directory" lets you navigate between directories on your computer
@@ -13,7 +16,10 @@ A side note, when you're talking in computer science, folders are called directo
     python   runs a Python script
     git      executes a git command
     ~        "home" a shortcut for your home directory
+    open .   open a new Finder window in the current location (make sure to include the .)
 ```
+
+* In computer science folders are called directories.
 
 You're going to make sure you have Git installed by running this command in your terminal
 
@@ -28,10 +34,12 @@ If it tells you a version number, you're fine, otherwise follow these steps to i
 Once you open your terminal, we're going to open this code.
 Type this command into your terminal.
 
+Use the url we copied earlier instead of {github url}
+
 ```
     mkdir ~/code
     cd ~/code
-    git clone https://github.com/amaclean2/intro-to-python.git
+    git clone {github url}
 ```
 
 Now once it's cloned, you should be able to type this and execute your first program.
@@ -41,10 +49,10 @@ Now once it's cloned, you should be able to type this and execute your first pro
     python intro.py
 ```
 
-If you look inside the intro-to-python directory, you should see two files, a ```README.md```, which is what you're reading, and ```intro.py```.
+If you look inside the intro-to-python directory using the open command earlier, you should see two files, a ```README.md```, which is what you're reading, and ```intro.py```.
 The intro file is your actual python code and what we'll be editing.
 
-When you typed in ```python intro.py```, you ran this file which told the computer to print "Hello World"
+When you typed in ```python intro.py```, you ran this program which told the computer to print "Hello World"
 
 ## Some Notes
 
