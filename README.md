@@ -2,18 +2,29 @@
 
 Python is extremely simple to get started, but first we're going to get introduced to a couple applications.
 
+- There should be a button in the upper right corner of this page that says Fork.
+- Click on it and it will copy all the code in the assignment into your GitHub.
+- Click on clone or download and copy the url. Make sure it says clone with HTTPS in the new window.
+
 On your computer, there's an application called terminal. Terminal is a command line editor for your computer. Everything you can do on your computer, you can do in terminal. You just have to learn the commands for what you want to do. We'll start with a couple simple ones first.
 
-A side note, when you're talking in computer science, folders are called directories, so that's what we'll refer to them as.
+```
+    cd       "change directory" lets you navigate between directories on your computer
+    
+    mkdir    "make directory" creates a new directory in the current location
+    
+    ls       "list" lists all the contents of the directory you are currently in
+    
+    python   runs a Python script
+    
+    git      executes a git command
+    
+    ~        "home" a shortcut for your home directory
+    
+    open .   open a new Finder window in the current location (make sure to include the .)
+```
 
-```
-    cd     - "change directory" lets you navigate between directories on your computer
-    mkdir  - "make directory" create a new directory where you are
-    ls     - "list" lists all the contents of the directory you're currently in
-    python - runs whatever the next word is in Python
-    git    - executes a git command
-    ~      - "home" a shortcut for your home directory
-```
+* In computer science folders are called directories.
 
 You're going to make sure you have Git installed by running this command in your terminal
 
@@ -28,10 +39,12 @@ If it tells you a version number, you're fine, otherwise follow these steps to i
 Once you open your terminal, we're going to open this code.
 Type this command into your terminal.
 
+Use the url we copied earlier instead of {github url}
+
 ```
     mkdir ~/code
     cd ~/code
-    git clone https://github.com/amaclean2/intro-to-python.git
+    git clone {github url}
 ```
 
 Now once it's cloned, you should be able to type this and execute your first program.
@@ -41,10 +54,12 @@ Now once it's cloned, you should be able to type this and execute your first pro
     python intro.py
 ```
 
-If you look inside the intro-to-python directory, you should see two files, a ```README.md```, which is what you're reading, and ```intro.py```.
+If you look inside the intro-to-python directory using the open command `open .`, you should see two files, a ```README.md```, which is what you're reading, and ```intro.py```.
 The intro file is your actual python code and what we'll be editing.
 
-When you typed in ```python intro.py```, you ran this file which told the computer to print "Hello World"
+When you typed in ```python intro.py```, you ran this program which told the computer to print "Hello World"
+
+A lot of these steps seem confusing now, but we will go over them more later, and as you use them more it will become easier.
 
 ## Some Notes
 
@@ -58,8 +73,8 @@ To look at the code you are writing, it's really useful to have a text editor. O
 
 ## Some other resources of what we went over
 
-[https://www.w3schools.com/python/python_getstarted.asp]
+https://www.w3schools.com/python/python_getstarted.asp
 
-[https://www.learnpython.org/en/Hello%2C_World%21]
+https://www.learnpython.org/en/Hello%2C_World%21
 
-[https://www.geeksforgeeks.org/python-language-introduction/]
+https://www.geeksforgeeks.org/python-language-introduction/
