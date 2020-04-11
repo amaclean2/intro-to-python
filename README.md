@@ -49,10 +49,12 @@ Now once it's cloned, you should be able to type this and execute your first pro
     python intro.py
 ```
 
-If you look inside the intro-to-python directory using the open command earlier, you should see two files, a ```README.md```, which is what you're reading, and ```intro.py```.
+If you look inside the intro-to-python directory using the open command `open .`, you should see two files, a ```README.md```, which is what you're reading, and ```intro.py```.
 The intro file is your actual python code and what we'll be editing.
 
 When you typed in ```python intro.py```, you ran this program which told the computer to print "Hello World"
+
+A lot of these steps seem confusing now, but we will go over them more later, and as you use them more it will become easier.
 
 ## Some Notes
 
