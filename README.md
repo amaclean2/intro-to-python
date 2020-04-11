@@ -58,8 +58,8 @@ To look at the code you are writing, it's really useful to have a text editor. O
 
 ## Some other resources of what we went over
 
-[https://www.w3schools.com/python/python_getstarted.asp]
+https://www.w3schools.com/python/python_getstarted.asp
 
-[https://www.learnpython.org/en/Hello%2C_World%21]
+https://www.learnpython.org/en/Hello%2C_World%21
 
-[https://www.geeksforgeeks.org/python-language-introduction/]
+https://www.geeksforgeeks.org/python-language-introduction/
