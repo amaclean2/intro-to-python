@@ -10,7 +10,7 @@ A side note, when you're talking in computer science, folders are called directo
     cd       "change directory" lets you navigate between directories on your computer
     mkdir    "make directory" create a new directory where you are
     ls       "list" lists all the contents of the directory you're currently in
-    python   runs whatever the next word is in Python
+    python   runs a Python script
     git      executes a git command
     ~        "home" a shortcut for your home directory
 ```
