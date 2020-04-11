@@ -5,7 +5,7 @@ Python is extremely simple to get started, but first we're going to get introduc
 - First thing, go to https://github.com/amaclean2/intro-to-python.
 - There should be a button in the upper right corner that says Fork.
 - Click on it and it will copy all the code in the assignment into your GitHub.
-- Click on clone or download and copy the url. 
+- Click on clone or download and copy the url. Make sure it says clone with HTTPS in the new window.
 
 On your computer, there's an application called terminal. Terminal is a command line editor for your computer. Everything you can do on your computer, you can do in terminal. You just have to learn the commands for what you want to do. We'll start with a couple simple ones first.
 
