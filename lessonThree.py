@@ -1,4 +1,4 @@
-# Write code in each of these functions that fufill the following requirements.
+# Write code in each of these functions that fulfill the following requirements.
 # 
 # createUser should take the five parameters given and add a new dict to the end of the users list
 # 
@@ -14,7 +14,7 @@ users = []
 
 def createUser(fullName, email, userName, password, phoneNumber) :
     # your code here
-    
+
 
 def authUser(userName, password) :
     # your code here
