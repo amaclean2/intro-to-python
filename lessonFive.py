@@ -1,3 +1,15 @@
+# exampleList = [ 'a', 'b', 'c' ]
+# to remove the last item exampleList a list would look like
+# 
+# exampleList.pop()
+# result: [ 'a', 'b' ]
+#
+# to remove an item by index from exampleList would look like
+#
+# exampleList.pop(0)
+# result: [ 'b' ]
+
+
 myList = []
 
 # Complete a function that adds elements to the list, 'myList'
@@ -35,37 +47,37 @@ def removeElement(element) :
 #-----#
 
 addToList(5)
-print("added 5: ", myArray)
+print("added 5: ", myList)
 
 addToList(12)
-print("added 12: ", myArray)
+print("added 12: ", myList)
 
 removeFromList()
-print("popped: ", myArray)
+print("popped: ", myList)
 
 removeFromList()
-print("popped: ", myArray)
+print("popped: ", myList)
 
 addToList(12)
-print("added 12: ", myArray)
+print("added 12: ", myList)
 
 addToList(13)
-print("added 13: ", myArray)
+print("added 13: ", myList)
 
 addToList(6)
-print("added 6: ", myArray)
+print("added 6: ", myList)
 
 addToList(2)
-print("added 2: ", myArray)
+print("added 2: ", myList)
 
 addToList(7)
-print("added 7: ", myArray)
+print("added 7: ", myList)
 
 removeFromList()
-print("popped: ", myArray)
+print("popped: ", myList)
 
 removeFromList()
-print("popped: ", myArray)
+print("popped: ", myList)
 
 print("13: ")
 printIndex(13)
