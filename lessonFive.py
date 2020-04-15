@@ -1,8 +1,9 @@
 # exampleList = [ 'a', 'b', 'c' ]
-# to remove the last item exampleList a list would look like
+# to remove the last item in exampleList would look like
 # 
 # exampleList.pop()
 # result: [ 'a', 'b' ]
+#
 #
 # to remove an item by index from exampleList would look like
 #
