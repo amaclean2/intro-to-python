@@ -11,3 +11,7 @@ Lesson 4: [Using Data](https://gist.github.com/amaclean2/4b8bc1abdfd50a15a903045
 Lesson 5: [Functions](https://gist.github.com/amaclean2/bb54966d06de57178dc9996fdde8ceb9)
 
 Lesson 6: [More on Conditionals](https://gist.github.com/amaclean2/92114038ebdcbd56f9537f438ed9cf18)
+
+Lesson 7: [Strings and Dicts](https://gist.github.com/amaclean2/ce50abeca8ad441ef1b1d89c0b3eafc2)
+
+Lesson 8: [Input and Error Handling pt. 1](https://gist.github.com/amaclean2/fe49a271a9651e6b52adc165e897d704)
